@@ -1,0 +1,13 @@
+# MATLAB autosave and cache files
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# OS junk
+.DS_Store
+Thumbs.db
