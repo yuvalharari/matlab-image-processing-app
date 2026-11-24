@@ -41,12 +41,15 @@ Original → Brightness → Contrast → Blur → Sharpen → Grayscale → Edge
    ```
 2. Open `FinalProject_matlab.mlapp` in MATLAB. It opens in App Designer.
 3. Click **Run**, or run `FinalProject_matlab` from the MATLAB command window.
-4. Click **Choose Image** to load any image from your computer.
+4. Click **Choose Image** and load one of the sample images from the `samples/` folder, or any image from your computer.
 
 ## Project Structure
 
 ```
 ├── FinalProject_matlab.mlapp   # App Designer app (UI layout + code)
+├── samples/
+│   ├── balloon-color.jpg       # Sample color image
+│   └── balloon-bw.jpg          # Sample black-and-white image
 └── docs/
     └── app-screenshot.png      # App interface screenshot
 ```
